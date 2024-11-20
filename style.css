@@ -1,0 +1,60 @@
+
+body {
+  font-family: Verdana, Arial, sans-serif;
+  color:#775548;
+  background-color:  #edece9;
+}
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  color: #e1d4cf;
+  background-color: #775548;
+}
+
+footer {
+  background-color: black;
+  height: 100px;
+  color:#e1b73a;
+  text-align: center;
+  line-height: 100px;
+ 
+}
+
+.guion {
+  font-size:smaller;
+}
+
+.carpa{
+  width:100%;
+}
+
+.opciones {
+  display: inline;
+  font-size: 23px;
+}
+
+.naranja {
+  color: #ef6b29;
+}
+
+.celeste {
+  color: #38a5c1;
+  margin-bottom: 0;
+  font-size: 16px;
+}
+
+.rojito {
+  color:#ef4a4e; 
+  margin-top: 0;
+  font-size: 16px;
+}
+ .mostaza {
+  color: #e1b73a;
+ }
+ 
+ .izq {
+ margin:0;
+ padding:0;
+ }
